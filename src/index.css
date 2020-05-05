@@ -1,0 +1,16 @@
+html,
+body {
+  color: #ffffff;
+}
+
+.container {
+  top: 1.5rem;
+}
+
+.box {
+  background: url('./assets/images/silver-and-black-laptop-computer-1229861.jpg') no-repeat center center/cover;
+  background-color: #dddddd;
+  color: white;
+  padding: 4rem;
+  margin: 0.5rem;
+}

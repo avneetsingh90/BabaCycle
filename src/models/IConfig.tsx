@@ -1,0 +1,13 @@
+interface IConfig{
+    REACT_APP_API_URL: string;
+    REACT_APP_SHOW_MESSAGE_MANAGER:boolean;
+    REACT_APP_SHOW_EMPLOYEE_LIST:boolean;
+    REACT_APP_SHOW_PAID_LEAVE_APPLICATION:boolean;
+    REACT_APP_SHOW_EXPENSES_APPLICATION:boolean;
+    REACT_APP_SHOW_PAYSLIP_DOWNLOAD:boolean;
+    REACT_APP_SHOW_PAYSLIP_HISTORY:boolean;
+}
+
+export default IConfig;
+
+

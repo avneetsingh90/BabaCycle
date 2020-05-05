@@ -1,0 +1,98 @@
+
+.modal.add-employee-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    outline: 0;
+    padding: 0 !important;
+    background-color: #fff;
+}
+.modal.show.add-employee-modal .modal-dialog {
+        max-width: 100%;
+        margin: 0;
+}
+.add-employee-modal .modal-content{border-radius: 0; border: none !important;}
+
+.add-employee-modal .modal-dialog .modal-header {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    top: 0;
+    background-color: #fff;
+    z-index: 1;
+}
+
+
+.add-employee-modal .create-user-container .nav-tabs .nav-link.active {
+    color: #00a284;
+    font-weight: 500;
+    background-color:#f5f6fa !important;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    border-color:#dee2e6 !important;
+    border-width: 1px 1px 0 1px !important;
+    border-style:solid !important;
+}
+
+.create-user-container .nav-item .nav-link{background-color:#fff !important;}
+
+
+.add-employee-modal .tab-action {
+    position: fixed;
+    text-align: right;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 15px;
+    background-color: #fff;
+    border-top: 1px solid #e5e9f2;
+}
+
+.add-employee-modal .create-user-container{margin: 0;}
+.add-employee-modal  .modal-dialog .modal-body {padding: 80px 30px 120px 30px; position: fixed; left: 0; top: 0; height: 100%; width: 100%; overflow: auto;}
+.add-employee-modal .tab-action {
+    position: fixed;
+    text-align: right;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 15px;
+    background-color: #fff;
+    border-top: 1px solid #e5e9f2;
+}
+
+
+.add-employee-modal .nav-tabs .nav-link.active,
+.add-employee-modal .nav-tabs .nav-item.show .nav-link {color: #495057; background-color: #f5f6fa; border-color: #dee2e6 #dee2e6 #f5f6fa;}
+.add-employee-modal .tab-content { background-color: #f5f6fa; padding:15px; border-width: 0 1px 1px 1px; border-style: solid; border-color: #dee2e6;}
+.add-employee-modal .create-user-container .tab-pane{background: none; padding: 0;}
+
+.add-employee-modal .create-user-container .nav-tabs{border-color:#dee2e6;}
+.add-employee-modal .nav-tabs .nav-item { margin-bottom: -1px;}
+.add-employee-modal .nav-tabs .nav-link{border-width:1px 1px 1px 1px; border-style: solid; border-color:transparent;}
+.add-employee-modal .nav-tabs .nav-link.active{ background-color:#dee2e6; background-color: #f5f6fa; border-color: #dee2e6 #dee2e6 #f5f6fa;}
+
+.add-employee-modal .create-user-container .nav-tabs .nav-item .nav-link.active{margin-bottom: -1px;}
+
+.input-group > .input-group-prepend > .input-group-text,
+.input-group > .input-group-append > .input-group-text{background-color: #fff; border-color: #e5e9f2;}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="button"], input[type="submit"], .btn{
+    height: 45px !important;
+    line-height: 45px !important;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="button"], input[type="submit"], .btn, .form-control {
+    font-size: 14px !important;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+

@@ -1,0 +1,78 @@
+.sidebar-minified:not(.left-sidebar) .left-sidebar .profile-img .mdi {
+    left: 3px;
+}
+
+.sidebar-dark .left-sidebar {
+    background: #455a64
+}
+
+.sidebar .sidebar-inner>li>a {
+    color: #fff;
+}
+
+.sidebar-dark .sidebar .nav>li.active>a {
+    background: #00a284;
+    color: #fff;
+}
+
+.sidebar-dark .sidebar .nav>li.active>a i {
+    color: #fff;
+}
+
+.sidebar .sidebar-inner>li>a {
+    padding: 9px 12px;
+    font-size: 13px;
+}
+
+.sidebar .sidenav-item-link .nav-text {
+    max-width: 100%;
+}
+
+.sidebar .nav>li>a i {
+    font-size: 18px;
+}
+
+@media (min-width: 768px) {
+    .left-sidebar {
+        width: 216px;
+    }
+
+    .sidebar-fixed-offcanvas .main-header,
+    .sidebar-fixed .main-header {
+        padding-left: 13.6rem;
+    }
+
+    .sidebar-minified .profile-img img {
+        width: 20px;
+    }
+
+    .sidebar-fixed-offcanvas .page-wrapper,
+    .sidebar-fixed .page-wrapper {
+        padding-left: 13.6rem;
+    }
+
+    .sidebar-minified .left-sidebar {
+        width: 45px;
+    }
+
+    .sidebar-fixed.sidebar-minified.header-fixed .page-wrapper .main-header {
+        padding-left: 2.85rem;
+    }
+
+    .sidebar-fixed.sidebar-minified .page-wrapper {
+        padding-left: 3.00rem;
+    }
+
+    .sidebar-minified .profile-element .profile-img .mdi {
+        left: 13px;
+        bottom: 9px;
+        font-size: 14px;
+    }
+
+    #addMessager .modal-dialog,
+    #delete-express-application .modal-dialog {
+        width: 400px;
+    }
+
+
+}
