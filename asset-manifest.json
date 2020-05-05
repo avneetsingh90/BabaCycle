@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BabaCycle/static/css/main.88da8758.chunk.css",
+    "main.js": "/BabaCycle/static/js/main.bd13c2a9.chunk.js",
+    "main.js.map": "/BabaCycle/static/js/main.bd13c2a9.chunk.js.map",
+    "runtime-main.js": "/BabaCycle/static/js/runtime-main.0010f2dc.js",
+    "runtime-main.js.map": "/BabaCycle/static/js/runtime-main.0010f2dc.js.map",
+    "static/css/2.0133fadf.chunk.css": "/BabaCycle/static/css/2.0133fadf.chunk.css",
+    "static/js/2.43647476.chunk.js": "/BabaCycle/static/js/2.43647476.chunk.js",
+    "static/js/2.43647476.chunk.js.map": "/BabaCycle/static/js/2.43647476.chunk.js.map",
+    "index.html": "/BabaCycle/index.html",
+    "precache-manifest.c2e173aae869649e074ea61e5b06ea95.js": "/BabaCycle/precache-manifest.c2e173aae869649e074ea61e5b06ea95.js",
+    "service-worker.js": "/BabaCycle/service-worker.js",
+    "static/css/2.0133fadf.chunk.css.map": "/BabaCycle/static/css/2.0133fadf.chunk.css.map",
+    "static/css/main.88da8758.chunk.css.map": "/BabaCycle/static/css/main.88da8758.chunk.css.map",
+    "static/js/2.43647476.chunk.js.LICENSE.txt": "/BabaCycle/static/js/2.43647476.chunk.js.LICENSE.txt",
+    "static/media/User-icon.png": "/BabaCycle/static/media/User-icon.6ad15a81.png",
+    "static/media/login-graphics.svg": "/BabaCycle/static/media/login-graphics.66812190.svg",
+    "static/media/Login.css": "/BabaCycle/static/media/photo-of-women-using-laptops-3178744.6c2ac7f4.jpg",
+    "static/media/index.css": "/BabaCycle/static/media/silver-and-black-laptop-computer-1229861.0ee6d1fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0010f2dc.js",
+    "static/css/2.0133fadf.chunk.css",
+    "static/js/2.43647476.chunk.js",
+    "static/css/main.88da8758.chunk.css",
+    "static/js/main.bd13c2a9.chunk.js"
+  ]
+}
